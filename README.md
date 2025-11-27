@@ -73,7 +73,7 @@
 
 <h2>📫 Connect With Me</h2>
 <p>
-  <strong>Linkdin:</strong> <a href="www.linkedin.com/in/raina-susan-ranjith-4a506b298">linkdin.com/raina-susan-ranjith</a><br>
+  <strong>Linkdin:</strong> <a href="https://www.linkedin.com/in/raina-susan-ranjith-4a506b298/">linkdin.com/raina-susan-ranjith</a><br>
 </p>
 
 <p align="left">
