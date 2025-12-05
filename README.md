@@ -65,7 +65,7 @@
 <ul>
   <li>Backend development & API design</li>
   <li>ML model building & understanding algorithms</li>
-  <li>Linux tools, automation & shell scripting</li>
+  <li>Linux tools & automation</li>
   <li>Building simple but impactful projects</li>
 </ul>
 
